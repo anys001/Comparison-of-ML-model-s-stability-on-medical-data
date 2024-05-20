@@ -1,0 +1,2 @@
+# Comparison-of-ML-model-s-stability-on-medical-data
+This repository is used for project about ML model’s stability in medical data. The leave-one-out concept is used to analyze the behavior for 5 models(Logistic Regression, Decision Tree, Random Forest, Bagging,CatBoost) towards removal of certain percent of data from the dataset. Stability of the model is observed by deriving generalization error. 
